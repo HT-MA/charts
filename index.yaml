@@ -1,14 +1,25 @@
 apiVersion: v1
 entries:
+  astro-doc:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-12T08:35:13.824186085Z"
+    description: A Helm chart for Kubernetes
+    digest: bf5abd866fd868605dce40b6719ea04ba77e39709637f7f36bbab805cf567ab1
+    name: astro-doc
+    type: application
+    urls:
+    - https://ht-ma.github.io/my-helm-charts-repo/astro-doc-0.1.0.tgz
+    version: 0.1.0
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-05-29T05:37:59.575043866Z"
+    created: "2024-06-12T08:35:13.824884866Z"
     description: A Helm chart for Kubernetes
     digest: cbc1dd27de0cad2c6f95764f7aaea647f7ba2bbfe66150266c3307814af19ec4
     name: mychart
     type: application
     urls:
-    - mychart-0.1.0.tgz
+    - https://ht-ma.github.io/my-helm-charts-repo/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-05-29T05:37:59.574126576Z"
+generated: "2024-06-12T08:35:13.82347932Z"
